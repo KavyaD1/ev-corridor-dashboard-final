@@ -253,73 +253,7 @@ corridor_data = {
     "contact": "dvc.jharia@dvc.gov.in | 06542-220145"
   }
 ],
-"Paradeep-Barbil":[
-  {
-    "id": "L1",
-    "place": "Site L1",
-    "coordinates": [21.246574, 86.1355386],
-    "corridor": "Paradeep – Barbil",
-    "highway": "NH 53",
-    "distanceFromHighway": "0.65 km",
-    "siteSize": "Unknown",
-    "amenities": "~1.2 km",
-    "substation": "DRDA sub-station",
-    "renewables": "Unknown",
-    "contact": "Tel: 1242571700"
-  },
-  {
-    "id": "L2",
-    "place": "Site L2",
-    "coordinates": [20.7670378, 86.3466015],
-    "corridor": "Paradeep – Barbil",
-    "highway": "NH 53",
-    "distanceFromHighway": "1.92 km",
-    "siteSize": "Unknown",
-    "amenities": "~0.5 km",
-    "substation": "Jaipur town grid substation (~16 km)",
-    "renewables": "Unknown",
-    "contact": "Tel: 7942698742"
-  },
-  {
-    "id": "L3",
-    "place": "Site L3",
-    "coordinates": [20.8846845, 86.361322],
-    "corridor": "Paradeep – Barbil",
-    "highway": "NH 53, NH 20",
-    "distanceFromHighway": "1.48 km",
-    "siteSize": "Unknown",
-    "amenities": "~1.5 km",
-    "substation": "Jaipur town grid substation (OPTCL) (~5.66 km)",
-    "renewables": "Unknown",
-    "contact": "Tel: 1242571700"
-  },
-  {
-    "id": "L4",
-    "place": "Site L4",
-    "coordinates": [21.246574, 86.1355386],
-    "corridor": "Paradeep – Barbil",
-    "highway": "NH 20",
-    "distanceFromHighway": "1.32 km",
-    "siteSize": "Unknown",
-    "amenities": "2.1 km",
-    "substation": "Duburi electric sub-station (~30 km)",
-    "renewables": "Unknown",
-    "contact": "Tel: +91 11 4103 4600, +91 11 4103 4601 (Email: info@powerline.net.in)"
-  },
-  {
-    "id": "L5",
-    "place": "Site L5",
-    "coordinates": [21.3036207, 85.3944443],
-    "corridor": "Paradeep – Barbil",
-    "highway": "NH 520",
-    "distanceFromHighway": "1.54 km",
-    "siteSize": "Unknown",
-    "amenities": "1.8 km",
-    "substation": "New Duburi substation 400kV (~50 km)",
-    "renewables": "Unknown",
-    "contact": "Tel: 033-24235011 (Email: powergrid.pr@powergrid.in)"
-  }
-],
+
 "Vijayawada – Hyderabad": [
         {
             "id": "n1",
